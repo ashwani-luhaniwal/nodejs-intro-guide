@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-intro-guide",
+  "version": "1.0.0",
+  "description": "NodeJS Reference Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/nodejs-intro-guide.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Guide"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/nodejs-intro-guide/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/nodejs-intro-guide#readme",
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}
