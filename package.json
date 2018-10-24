@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ashwani-luhaniwal/nodejs-intro-guide#readme",
   "devDependencies": {
     "http": "0.0.0"
+  },
+  "dependencies": {
+    "event-stream": "^4.0.1"
   }
 }
